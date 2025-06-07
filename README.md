@@ -62,4 +62,5 @@ Contributors to the repo are:
 - Anne Marie Twagirayezu
 - Omar Keita
 - Tanguy Kwizera
+- Clinton Tanaka Pikita
 
