@@ -41,8 +41,10 @@ Each team member trained their model and documented the outcomes. The results we
 | Engineer           | Regularizer | Optimizer | Dropout | Early Stopping | Accuracy | F1 Score | Recall | Precision |
 |-------------------|-------------|-----------|---------|----------------|----------|----------|--------|-----------|
 | David Niyonshuti  | L2          | Adagrad   | 0.3     | Patience=5     | 0.7012   | 0.4806   | 0.3676 | 0.6939    |
-| Omar Keita        | L1          | RMSprop   | 0.2     | Patience=8     | 0.6082   | 0.76     | 1.00   | 0.61       |
-| Anne Marie        | L2          | Adam      | 0.3     | Patience=4     | 0.6870   | 0.4122   | 0.2919 | 0.7013     |
+| Omar Keita        | L1          | RMSprop   | 0.2     | Patience=8     | 0.6082   | 0.76     | 1.00   | 0.61      |
+| Anne Marie        | L2          | Adam      | 0.3     | Patience=4     | 0.6870   | 0.4122   | 0.2919 | 0.7013    |
+| Clinton Pikita    | L1          | Adam      | 0.3     | Patience=10    | 0.5427   | 0.65     | 0.69   | 0.62      |
+
 
 > Full results and reflections available in the report below.
 
