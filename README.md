@@ -42,7 +42,7 @@ Each team member trained their model and documented the outcomes. The results we
 |-------------------|-------------|-----------|---------|----------------|----------|----------|--------|-----------|
 | David Niyonshuti  | L2          | Adagrad   | 0.3     | Patience=5     | 0.7012   | 0.4806   | 0.3676 | 0.6939    |
 | Omar Keita        | L1          | RMSprop   | 0.2     | Patience=8     | 0.6082   | 0.76     | 1.00   | 0.61       |
-| Teammate B        | Dropout     | Adam      | 0.5     | Patience=15    | ...      | ...      | ...    | ...       |
+| Anne Marie        | L2          | Adam      | 0.3     | Patience=4     | 0.6870   | 0.4122   | 0.2919 | 0.7013     |
 
 > Full results and reflections available in the report below.
 
@@ -59,5 +59,5 @@ You can find a detailed breakdown of:
 ## Authors
 Contributors to the repo are:
 - David Niyonshuti
-- Your name
+- Anne Marie Twagirayezu
 
