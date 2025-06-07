@@ -41,7 +41,7 @@ Each team member trained their model and documented the outcomes. The results we
 | Engineer           | Regularizer | Optimizer | Dropout | Early Stopping | Accuracy | F1 Score | Recall | Precision |
 |-------------------|-------------|-----------|---------|----------------|----------|----------|--------|-----------|
 | David Niyonshuti  | L2          | Adagrad   | 0.3     | Patience=5     | 0.7012   | 0.4806   | 0.3676 | 0.6939    |
-| Teammate A        | L1          | RMSprop   | 0.2     | Patience=10    | ...      | ...      | ...    | ...       |
+| Omar Keita        | L1          | RMSprop   | 0.2     | Patience=8     | 0.6082   | 0.76     | 1.00   | 0.61       |
 | Teammate B        | Dropout     | Adam      | 0.5     | Patience=15    | ...      | ...      | ...    | ...       |
 
 > Full results and reflections available in the report below.
