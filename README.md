@@ -18,7 +18,7 @@ This diversity allowed us to explore how tuning key hyperparameters affects the 
 
 ## Dataset
 
-We used the publicly available [water_potability.csv]([(https://drive.google.com/file/d/1VXHjV4Hi7d__I9v2KYudh32OVud3aEvm/view)), which includes features like pH, hardness, solids, sulfate, conductivity, organic carbon, and more. The dataset was preprocessed, scaled, and split into training, validation, and test sets (70%, 15%, 15%).
+We used the publicly available [water_potability.csv](https://drive.google.com/file/d/1VXHjV4Hi7d__I9v2KYudh32OVud3aEvm/view), which includes features like pH, hardness, solids, sulfate, conductivity, organic carbon, and more. The dataset was preprocessed, scaled, and split into training, validation, and test sets (70%, 15%, 15%).
 
 ## ⚙Model Setup & Techniques
 
