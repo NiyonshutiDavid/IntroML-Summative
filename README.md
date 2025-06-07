@@ -60,4 +60,6 @@ You can find a detailed breakdown of:
 Contributors to the repo are:
 - David Niyonshuti
 - Anne Marie Twagirayezu
+- Omar Keita
+- Tanguy Kwizera
 
